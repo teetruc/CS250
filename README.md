@@ -1,2 +1,6 @@
-# SDSU-CS250
-Tiffany Truc and Danny Kim's Spring 2023 CS-250 Repository
+# SDSU-SP23-CS250
+CS-250, Section 2
+
+Antonio Ambriz
+Tiffany Truc
+Danny Kim
